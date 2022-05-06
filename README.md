@@ -17,14 +17,17 @@ ERD diagram -
 
 ![ERD diagram](https://user-images.githubusercontent.com/101716153/167172326-528d9e2a-7cf0-4385-929b-c8eaa27fcae9.png)
 
+
+MosCow diagram - 
+
+![MosCow diagram](https://user-images.githubusercontent.com/101716153/167172488-44015928-8920-4b61-8654-b5a1a6585693.png)
+
+
 Jira Sprint - 
 
 https://zali0.atlassian.net/jira/software/projects/SCFP/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiMTVhNTIxMjhmNzMwNDE0NWE0MmUwNmFmMmFmN2Q2YzciLCJwIjoiaiJ9
 
 
-MosCow diagram - 
-
-![MosCow diagram](https://user-images.githubusercontent.com/101716153/167172488-44015928-8920-4b61-8654-b5a1a6585693.png)
 
 PP Presentation - 
 
